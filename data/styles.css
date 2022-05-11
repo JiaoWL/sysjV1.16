@@ -98,14 +98,14 @@
   text-align:left;
 }
 .font_awesome_5_free_solid {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
 }
 .font_awesome_5_brand_icons {
 }
 .font_awesome_5_free_regular {
-  font-family:'FontAwesome5Free-Regular', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -278,7 +278,7 @@
 .shape {
 }
 .new_style {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:28px;
