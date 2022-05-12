@@ -196,7 +196,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:101px;
+  width:93px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -215,7 +215,7 @@
   position:absolute;
   left:259px;
   top:16px;
-  width:101px;
+  width:93px;
   height:16px;
   display:flex;
   font-family:'宋体 Bold', '宋体 常规', '宋体', sans-serif;
@@ -2105,7 +2105,7 @@
   left:0px;
   top:0px;
   width:355px;
-  height:747px;
+  height:728px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2124,7 +2124,7 @@
   left:0px;
   top:0px;
   width:355px;
-  height:747px;
+  height:728px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;

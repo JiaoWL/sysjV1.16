@@ -1,24 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="153px" height="135px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="74.5" y1="0" x2="74.5" y2="131" id="LinearGradient458">
-      <stop id="Stop459" stop-color="#958eff" offset="0" />
-      <stop id="Stop460" stop-color="#958eff" offset="0.08" />
-      <stop id="Stop461" stop-color="#6136cf" offset="0.98" />
-      <stop id="Stop462" stop-color="#6136cf" offset="1" />
-    </linearGradient>
-    <filter x="110px" y="178px" width="153px" height="135px" filterUnits="userSpaceOnUse" id="filter463">
-      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="1" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.298039215686275 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget464">
-      <path d="M 3.70728991095386 24.7727275885067  L 73.8104317277232 0.444411035425899  L 148.245179552331 21.868333344912  L 113.59805204695 92.3125115785768  L 73.8138640621195 130.44014201414  L 0.819552572394762 109.016219704654  L 3.70728991095386 24.7727275885067  Z " fill-rule="nonzero" fill="url(#LinearGradient458)" stroke="none" transform="matrix(1 0 0 1 112 178 )" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -110 -178 )">
-    <use xlink:href="#widget464" filter="url(#filter463)" />
-    <use xlink:href="#widget464" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="74px" height="84px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -150 -202 )">
+    <path d="M 72 21.6550754786742  L 37.1431163560759 1.42448245831596  L 2 21.6550754786742  L 2 62.1160540403155  L 37.1431163560759 82.3465087412904  L 72 62.1160540403155  L 72 21.6550754786742  Z M 36.5646126189735 0.444005508877888  C 36.7434049332406 0.342271602365661  36.9433310908027 0.291370069263732  37.1431163560759 0.291370069263732  C 37.3429016213488 0.291370069263732  37.5428277789099 0.342271602365661  37.721760985466 0.444005508877888  L 73.2926962028215 20.6745985292361  C 73.6490128007586 20.8772364259599  73.8683820941511 21.2508370806023  73 21.6550754786742  L 73 62.1160540403155  C 73.8683820941511 62.5202924383874  73.6490128007586 62.8938930930298  73.2926962028215 63.0965309897536  L 37.7216200931781 83.3269856907284  C 37.5426868866217 83.4287195972405  37.3429016213488 83.4796211303426  37.1431163560759 83.4796211303426  C 36.9433310908027 83.4796211303426  36.7434049332406 83.4287195972405  36.5646126189735 83.3269856907284  L 0.993818293907253 63.0965309897536  C 0.637501695969384 62.8938930930298  0.418132402577633 62.5202924383874  1 62.1160540403155  L 1 21.6550754786742  C 0.418132402577633 21.2508370806023  0.637501695969384 20.8772364259599  0.993818293907253 20.6745985292361  L 36.5646126189735 0.444005508877888  Z " fill-rule="nonzero" fill="#389aff" stroke="none" transform="matrix(1 0 0 1 150 202 )" />
   </g>
 </svg>
