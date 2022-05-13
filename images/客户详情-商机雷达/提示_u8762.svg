@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300px" height="123px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="659px" y="1686px" width="300px" height="123px" filterUnits="userSpaceOnUse" id="filter352">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget353">
+      <path d="M 664 1784.4375  C 664 1784.4375  664 1696  664 1696  C 664 1693.23857625085  666.238576250846 1691  669 1691  C 669 1691  949 1691  949 1691  C 951.761423749154 1691  954 1693.23857625085  954 1696  C 954 1696  954 1784.4375  954 1784.4375  C 954 1787.19892374915  951.761423749154 1789.4375  949 1789.4375  C 949 1789.4375  753.910211267606 1789.4375  753.910211267606 1789.4375  C 753.910211267606 1789.4375  740.766169154229 1803.5671641791  740.766169154229 1803.5671641791  C 740.766169154229 1803.5671641791  726.680164319249 1789.4375  726.680164319249 1789.4375  C 726.680164319249 1789.4375  669 1789.4375  669 1789.4375  C 666.238576250846 1789.4375  664 1787.19892374915  664 1784.4375  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0.996078431372549" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -659 -1686 )">
+    <use xlink:href="#widget353" filter="url(#filter352)" />
+    <use xlink:href="#widget353" />
+  </g>
+</svg>
